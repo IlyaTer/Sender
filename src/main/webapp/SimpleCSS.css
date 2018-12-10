@@ -1,0 +1,80 @@
+.container
+{
+	width: 700px;
+	height: 511px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 170px;
+	text-align: left;
+	color: white;
+	background-color: #222222;
+	border-radius: 6px;
+	border: solid;
+    border-color: #0099ff;
+}
+
+.incontainer
+{
+	padding-top: 10px;
+	margin-left: 28px;
+}
+
+.incontainer p
+{
+	margin-bottom: 0px;
+}
+
+.incontainer form input
+{
+	margin-top: 10px;
+	border-radius: 6px;
+	
+}
+
+.incontainer form textarea
+{
+	margin-top: 10px;
+	width: 630px;
+	height: 195px;
+	border-radius: 6px;
+	background-color: #333333;
+	color: white;
+	padding-left: 10px;
+	font-size: 18px;
+	resize: none;
+}
+
+.incontainer form input[type=text]
+{
+	height: 30px;
+	width: 250px;
+	background-color: #333333;
+	color: white;
+	padding-left: 10px;
+	font-size: 18px;
+}
+
+#but
+{
+	padding: 8px 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 4px;
+    color: white;
+    border-radius: 6px;
+    background-color: #656565;
+    border: solid;
+    border-color: #0099ff;
+    font-size: 14px;
+}
+
+#but:hover
+{
+    background-color: #0066ff;
+}
+
+body
+{
+	background-color: #343232;
+}
